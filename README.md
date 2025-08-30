@@ -11,6 +11,11 @@ Dashboard interativo para análise comparativa entre Recife e Salvador para impl
 
 Este projeto apresenta uma análise estratégica comparando as cidades de Recife e Salvador como possíveis localizações para um novo Centro de Distribuição na região Nordeste. A ferramenta fornece insights baseados em dados reais sobre custos, logística, demografia e potencial econômico.
 
+
+## 🔗 Link do Projeto Hospedado
+https://davivie-projetodadospy-dapp-mydcfu.streamlit.app/
+
+
 ## ✨ Funcionalidades
 
 - **📊 Métricas Principais**: Comparativo de população, custos, tempo de entrega e PIB
@@ -56,37 +61,6 @@ streamlit run app.py
 4. **Acesse o dashboard**:
 Abra seu navegador e vá para `http://localhost:8501`
 
-### Instalação Rápida
-
-```bash
-# Criar ambiente virtual (opcional)
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# ou
-.\venv\Scripts\activate  # Windows
-
-# Instalar dependências
-pip install streamlit pandas plotly folium matplotlib
-
-# Executar
-streamlit run app.py
-```
-
-## 🌐 Deploy na Nuvem
-
-### Opção 1: Streamlit Community Cloud (Recomendado)
-
-1. Faça push do código para um repositório GitHub
-2. Acesse [share.streamlit.io](https://share.streamlit.io/)
-3. Conecte sua conta GitHub
-4. Selecione o repositório e branch
-5. Clique em "Deploy"
-
-### Opção 2: Hugging Face Spaces
-
-1. Crie uma conta em [Hugging Face](https://huggingface.co/)
-2. Crie um novo Space do tipo Streamlit
-3. Faça upload dos arquivos ou conecte com GitHub
 
 ## 📁 Estrutura do Projeto
 
@@ -131,11 +105,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Seu Nome - [Seu GitHub](https://github.com/seu-usuario)
+Seu Nome - [Seu GitHub](https://github.com/davivie)
 
-## 🙋‍♂️ Suporte
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para:
 
 - Abrir uma [issue](https://github.com/seu-usuario/analise-localizacao-cd/issues)
 - Entrar em contato por email: seu.email@exemplo.com
