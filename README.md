@@ -105,12 +105,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Seu Nome - [Seu GitHub](https://github.com/davivie)
-
-
+Davi Viegas - [Seu GitHub](https://github.com/davivie)
 - Abrir uma [issue](https://github.com/seu-usuario/analise-localizacao-cd/issues)
-- Entrar em contato por email: seu.email@exemplo.com
-
----
-
-⭐️ Se este projeto foi útil, deixe uma estrela no GitHub!
+- Entrar em contato por email: daviviegas83@gmail.com
